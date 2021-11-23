@@ -10,6 +10,9 @@ class MainActivity : AppCompatActivity() {
         dsvdsgvdsvdsvdvdsvdsvd
         piouoiuoiu
         iouuoi
+        kujhukhuoihuio
+        iohoihoi
+
 
 
     }
