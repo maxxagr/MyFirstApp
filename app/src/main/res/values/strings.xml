@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyFirstApp777</string>
+    <string name="Button_main">Кнопка!</string>
+    <string name="Text_Hello">Привет мир!</string>
+    <string name="Text_bye">До встречи</string>
+    <string name="Button_bottom">Еще Кнопка</string>
 </resources>
